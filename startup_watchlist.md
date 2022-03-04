@@ -34,4 +34,10 @@
 - [DWave](https://www.dwavesys.com/)
 - [IONQ](https://ionq.com/)
 
-## Robotics and IoT
+## Robotics
+
+## TinyML and AIoT
+
+### North America
+
+- [OmniML](https://omniml.ai/)
