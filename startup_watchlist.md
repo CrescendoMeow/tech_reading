@@ -7,6 +7,7 @@
 - [TensorTorrent](https://tenstorrent.com/)
   - Feature: A wimpy design with scaling-out. 
   - [ISSCC 2022] The Wormhole AI Training Processor (Session 21.4)
+  - [Linley Spring 2021] Scale-Out-First Microarchitecture for Efficient AI Training [[Video]](https://youtu.be/Id3enIOAY2Q)
   - [HotChips 2020] Compute substrate for Software 2.0 [[Slides]](https://ieeexplore.ieee.org/abstract/document/9220687)[[Video]](https://youtu.be/o5hhEJrHH4c?t=4024)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9373921)
 
 
