@@ -30,6 +30,13 @@
 
 - [北极雄芯](http://www.bjxx.tech/)
 
+## Consumer Electronics
+
+### Headphone and Hearing Aids
+
+- [会听声学](http://www.ht-acoustics.com/)
+- [又为智能 Evoco Lab](https://healthtechinsider.com/2021/01/08/ces-2021-award-winning-hearing-aid-boasts-onboard-intelligence/)
+
 ## Crypto, Block Chain, and etc.
 
 ### North America
