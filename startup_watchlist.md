@@ -5,7 +5,8 @@
 ### North America
 
 - [TensorTorrent](https://tenstorrent.com/)
-  - Feature: 
+  - Highlights:
+    - [Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_(engineer)) joint TensorTorrent as CTO in Dec, 2020.  
     - Wormhole: A multi-core wimpy design with NoC mesh on 800mm^2. 
   - [ISSCC 2022] The Wormhole AI Training Processor (Session 21.4)
   - [Linley Spring 2021] Scale-Out-First Microarchitecture for Efficient AI Training [[Video]](https://youtu.be/Id3enIOAY2Q)
