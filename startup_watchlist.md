@@ -37,7 +37,7 @@
 - [会听声学](http://www.ht-acoustics.com/)
 - [又为智能 Evoco Lab](https://healthtechinsider.com/2021/01/08/ces-2021-award-winning-hearing-aid-boasts-onboard-intelligence/)
 
-## Crypto, Block Chain, and etc.
+## Block Chain, Crypto, DeFi, DAO, Web 3.0, and etc.
 
 ### North America
 
