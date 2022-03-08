@@ -46,7 +46,7 @@
 
 ## Memory
 
-### Compute Express Link (CXL)
+### PCIe and Compute Express Link (CXL)
 
 - [CXL and the developing memory hierarchy](https://blocksandfiles.com/2021/03/25/cxl-and-the-developing-memory-hierarchy/)
 - [THE CXL ROADMAP OPENS UP THE MEMORY HIERARCHY](https://www.nextplatform.com/2021/09/07/the-cxl-roadmap-opens-up-the-memory-hierarchy/)
