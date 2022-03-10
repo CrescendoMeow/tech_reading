@@ -28,7 +28,8 @@
 ### Standard
 
 - [Universal Chiplet Interconnect Express (UCIe)](https://www.uciexpress.org/)
-  - The interconnection protocol at the chiplet level (or on-chip level)
+  - UCI is an interconnection protocol at the chiplet level (or on-chip level)
+  - UCI is inherited from Intel's Advanced Interface Bus (AIB).
   - [[Blog]](https://www.anandtech.com/show/17288/universal-chiplet-interconnect-express-ucie-announced-setting-standards-for-the-chiplet-ecosystem)
 - [Bunch of Wires (BoW) from Open Compute Project (OCP)](https://www.computer.org/csdl/magazine/mi/2021/01/09271827/1p2RNYCgZNe)
 
