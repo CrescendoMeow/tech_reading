@@ -19,6 +19,10 @@
 
 - [PerceptIn](https://www.perceptin.io/)
 
+### Iseral
+- [Mobileye](https://www.mobileye.com/)
+  - Founded in 1999; Acquired by Intel in March 2017; Confidentially filed to US IPO in March 2022.
+
 ## Chiplet
 
 ### Standard
