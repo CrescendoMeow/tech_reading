@@ -33,6 +33,10 @@
   - [[Blog]](https://www.anandtech.com/show/17288/universal-chiplet-interconnect-express-ucie-announced-setting-standards-for-the-chiplet-ecosystem)
 - [Bunch of Wires (BoW) from Open Compute Project (OCP)](https://www.computer.org/csdl/magazine/mi/2021/01/09271827/1p2RNYCgZNe)
 
+### North America
+
+- [Intel's Integrated Device Manufacturer 2.0 (IDM 2.0)](https://youtu.be/O40gm5-SpHc)
+
 ### China Mainland
 
 - [北极雄芯](http://www.bjxx.tech/)
