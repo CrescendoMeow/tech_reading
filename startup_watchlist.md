@@ -23,6 +23,13 @@
 - [Mobileye](https://www.mobileye.com/)
   - Founded in 1999; Acquired by Intel in March 2017; Confidentially filed to US IPO in March 2022.
 
+## Block Chain, Crypto, DeFi, DAO, Web 3.0, and etc.
+
+### North America
+
+- [Algorand](https://www.algorand.com/)
+- [Manta](https://www.manta.network/)
+
 ## Chiplet
 
 ### Standard
@@ -48,13 +55,6 @@
 - [会听声学](http://www.ht-acoustics.com/)
 - [又为智能 Evoco Lab](https://healthtechinsider.com/2021/01/08/ces-2021-award-winning-hearing-aid-boasts-onboard-intelligence/)
 
-## Block Chain, Crypto, DeFi, DAO, Web 3.0, and etc.
-
-### North America
-
-- [Algorand](https://www.algorand.com/)
-- [Manta](https://www.manta.network/)
-
 ## Memory
 
 ### PCIe and Compute Express Link (CXL)
@@ -71,6 +71,12 @@
 
 - [DWave](https://www.dwavesys.com/)
 - [IONQ](https://ionq.com/)
+
+## Security
+
+### North Ameria
+
+- [Agita Labs](https://agitalabs.com/): Founded by Prof. Todd Austin and Prof. Valeria Bertacco from UMich
 
 ## Robotics
 
