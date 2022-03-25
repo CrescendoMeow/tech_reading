@@ -43,6 +43,7 @@
 ### North America
 
 - [Intel's Integrated Device Manufacturer 2.0 (IDM 2.0)](https://youtu.be/O40gm5-SpHc)
+- [Cerebras](https://cerebras.net/): Wafer-Scale
 
 ### China Mainland
 
