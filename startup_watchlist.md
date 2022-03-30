@@ -12,6 +12,11 @@
   - [Linley Spring 2021] Scale-Out-First Microarchitecture for Efficient AI Training [[Video]](https://youtu.be/Id3enIOAY2Q)
   - [HotChips 2020] Compute substrate for Software 2.0 [[Slides]](https://ieeexplore.ieee.org/abstract/document/9220687)[[Video]](https://youtu.be/o5hhEJrHH4c?t=4024)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9373921)
 
+## 集成电路国产化
+
+### GPU
+
+- [摩尔线程 Moore Thread](https://www.mthreads.com/)
 
 ## Autonomous Driving
 
