@@ -66,6 +66,17 @@
   - [CXL and the developing memory hierarchy](https://blocksandfiles.com/2021/03/25/cxl-and-the-developing-memory-hierarchy/)
   - [THE CXL ROADMAP OPENS UP THE MEMORY HIERARCHY](https://www.nextplatform.com/2021/09/07/the-cxl-roadmap-opens-up-the-memory-hierarchy/)
 
+## Outer Space
+
+### North America
+
+- [SpaceX]
+- [Rocket Lab](https://www.rocketlabusa.com/)
+
+### China Mainland
+
+- [东方空间](https://www.sohu.com/a/519246523_260616)
+
 ## Quantum Computing
 
 ### North America
