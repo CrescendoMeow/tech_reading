@@ -16,7 +16,7 @@
 
 ### GPU
 
-- [摩尔线程 Moore Thread](https://www.mthreads.com/)
+- [摩尔线程 Moore Thread](https://www.mthreads.com/) (Founded in June, 2020)
 
 ## Autonomous Driving
 
