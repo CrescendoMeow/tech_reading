@@ -88,6 +88,7 @@
 
 - [DWave](https://www.dwavesys.com/)
 - [IONQ](https://ionq.com/)
+- [Rigetti Computing](https://www.rigetti.com/)
 
 ## Security
 
