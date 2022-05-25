@@ -92,6 +92,10 @@
 
 ## Security
 
+## Social Network and Colaborative Working Tools
+
+- Slack: acquired by salesfores in July, 2021.
+
 ### North Ameria
 
 - [Agita Labs](https://agitalabs.com/): Founded by Prof. Todd Austin and Prof. Valeria Bertacco from UMich
